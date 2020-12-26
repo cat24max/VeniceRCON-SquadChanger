@@ -1,0 +1,5 @@
+name: "SquadChanger"
+description: "Allows players to change squads using a chat command"
+version: "1.0.0"
+backend: "BF3"
+entry: "index.js"
